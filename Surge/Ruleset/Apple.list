@@ -62,7 +62,14 @@ DOMAIN,lcdn-locator.apple.com
 # > Apple Media 
 DOMAIN-KEYWORD,AppleCoreMedia
 
-# > Apple  Intelligence
+# > Apple Intelligence
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-KEYWORD,apple-relay
+
+
+# > Apple Storedownload 
+PROCESS-NAME,storedownloadd // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
+
+
