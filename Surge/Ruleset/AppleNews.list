@@ -23,3 +23,7 @@ DOMAIN,apple.comscoreresearch.com
 DOMAIN,play.itunes.apple.com
 DOMAIN,play-cdn.itunes-apple.com.akadns.net
 DOMAIN,c.apple.com
+
+# > AUTHOR: blackmatrix7
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
