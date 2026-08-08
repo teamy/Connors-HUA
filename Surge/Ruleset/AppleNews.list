@@ -23,7 +23,10 @@ DOMAIN,apple.comscoreresearch.com
 DOMAIN,play.itunes.apple.com
 DOMAIN,play-cdn.itunes-apple.com.akadns.net
 DOMAIN,c.apple.com
+# > Claude 
+DOMAIN-SUFFIX , news-edge.apple.com , AppleNews
+DOMAIN-SUFFIX , news.apple.com, AppleNews
 
-# > AUTHOR: blackmatrix7
+# > blackmatrix7
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
