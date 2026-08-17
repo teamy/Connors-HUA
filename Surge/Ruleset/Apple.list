@@ -1,4 +1,4 @@
-# > Apple 
+# > Apple List 
 DOMAIN-SUFFIX,apple.cnc.ccgslb.com.cn
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN,api.smoot.apple.com
@@ -33,44 +33,6 @@ USER-AGENT,FMFD*
 USER-AGENT,fmflocatord*
 DOMAIN-KEYWORD,fmfmobile
 
-# > AppleNews
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,Maps*
-USER-AGENT,News* 
-USER-AGENT,AppleNews* 
-USER-AGENT,com.apple.news*
-DOMAIN,gateway.icloud.com
-DOMAIN,news-client.apple.com  
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-events.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,play.itunes.apple.com
-DOMAIN,play-cdn.itunes-apple.com.akadns.net
-DOMAIN,c.apple.com
-
-# > Apple Map/TOMTOM Version
-DOMAIN,gs-loc.apple.com
-DOMAIN-SUFFIX,gs-loc-cn.apple.com
-DOMAIN-SUFFIX,lcdn-locator.apple.com
-DOMAIN-SUFFIX,lcdn-registration.apple.com
-DOMAIN-SUFFIX,ls.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-PROCESS-NAME,News
-
-# > Claude 
-DOMAIN-SUFFIX , news-edge.apple.com
-DOMAIN-SUFFIX , news.apple.com
-
-# > blackmatrix7
-DOMAIN,news-client-search.apple.com
-
-# > Chatgdt
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,c.apple.news
 
 # > App Store Download || iBooks Sample
 DOMAIN-SUFFIX,itunes.apple.com
